@@ -1,14 +1,14 @@
+# Plugin Folders
 .makemd
-.obsidian
 .space
 
 # Plugins
-plugins/*/**
-!plugins/*/data.json
+.obsidian/plugins/*/**
+!.obsidian/plugins/*/data.json
 
 # Themes
-themes/*/**
+.obsidian/themes/*/**
 
 # Workspaces
-workspace.json
-workspace-mobile.json
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
