@@ -1,0 +1,14 @@
+.makemd
+.obsidian
+.space
+
+# Plugins
+plugins/*/**
+plugins/*/data.json
+
+# Themes
+themes/*/**
+
+# Workspaces
+workspace.json
+workspace-mobile.json
