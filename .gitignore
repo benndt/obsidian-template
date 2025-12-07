@@ -4,7 +4,7 @@
 
 # Plugins
 plugins/*/**
-plugins/*/data.json
+!plugins/*/data.json
 
 # Themes
 themes/*/**
